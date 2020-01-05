@@ -1,2 +1,3 @@
 # store-web-workstation
-For the web app
+*version.1.0*
+For the version the focus is usability and simplicity of ui
